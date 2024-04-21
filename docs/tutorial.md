@@ -62,3 +62,20 @@ def init():
 :fontawesome-brands-twitter:{ .twitter }
 
 :octicons-heart-fill-24:{ .heart }
+
+## 编写文档用到的命令
+
+和mkdocs相关：
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+
+和github提交相关：
+
+``` bash
+git add .  # git reset . 表示反操作
+git comment -m "xxx"
+git push origin main
+
+# 然后在action中对分支进行ci部署
+```
