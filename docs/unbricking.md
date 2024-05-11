@@ -5,7 +5,7 @@
 bilibili的视频测试
 
 <figure markdown>
-<iframe width="640" height="390" src="//player.bilibili.com/player.html?aid=923901758&bvid=BV1oT4y1879u&cid=1409940228&p=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="390" src="//player.bilibili.com/player.html?aid=923901758&bvid=BV1oT4y1879u&cid=1409940228&p=1" title="Bilibili video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- <iframe width="640" height="390" src="//player.bilibili.com/player.html?aid=923901758&bvid=BV1oT4y1879u&cid=1409940228&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> </iframe> -->
 </figure>
