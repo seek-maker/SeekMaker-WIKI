@@ -6,12 +6,17 @@ bilibili的视频测试
 
 <figure markdown>
 
-<iframe src="//player.bilibili.com/player.html?aid=923901758&bvid=BV1oT4y1879u&cid=1409940228&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="640" height="390" src="//player.bilibili.com/player.html?aid=964863839&bvid=BV1Up4y1f7dP&cid=1367708168&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <!-- <iframe width="640" height="390" src="//player.bilibili.com/player.html?aid=923901758&bvid=BV1oT4y1879u&cid=1409940228&p=1" title="Bilibili video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <!-- <iframe width="640" height="390" src="//player.bilibili.com/player.html?aid=923901758&bvid=BV1oT4y1879u&cid=1409940228&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> </iframe> -->
 </figure>
+
+!!! info "视频有画面，没有声音"
+        请点击视频画面的右下角，把静音按钮关闭即可。
+
+
 
 
 ## HELP I BRICKED MY RX!
